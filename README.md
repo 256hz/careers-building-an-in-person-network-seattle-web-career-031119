@@ -21,7 +21,7 @@ Despite this digital age, nothing is stronger than connecting face-to-face. Here
 
 When it comes to face-to-face networking, there are lots of options. Here are some of the most common. 
 
-1. **[Meetups](http://www.meetup.com/)** - Meetup iis a platform where anyone can organize an in-person get together around a certain topic. There are lots of tech meetups in cities across the world. Meetups give you the chance to connect with others, learn about new products, and listen to talks. Meetups are usually free to attend. However, some may cost money, but usually not more than $5-10.
+1. **[Meetups](http://www.meetup.com/)** - Meetup is a platform where anyone can organize an in-person get together around a certain topic. There are lots of tech meetups in cities across the world. Meetups give you the chance to connect with others, learn about new products, and listen to talks. Meetups are usually free to attend. However, some may cost money, but usually not more than $5-10.
 
 2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Example: [Women in Technology International](http://www.witi.com/), [AIGA (American Institute of Graphic Arts)](https://www.aiga.org/)
 
